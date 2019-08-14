@@ -1,3 +1,4 @@
+// Arduino code to control the wheelchair 
 //#include <SoftwareSerial.h>
 //SoftwareSerial Bluetooth(3,2);  // RX | TX
 
