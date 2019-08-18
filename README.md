@@ -1,1 +1,2 @@
-# BCI_based_wheelchair
+# BCI based wheelchair
+> Conventionally, most people with severe impairments conditions need assistance for their every single job. They can’t move, switch-on the light, make a phone call, play any game, write an email …, because either they have lost their limbs or their brain couldn’t coordinate the limbs. But, what if they can control any device by their brain? Like they think and the light gets switched-on, they think and the cursor moves and gets clicked. All these are possible by merging the human brain with a computer, it’s a vast emerging field known as Brain-computer interface (BCI).
